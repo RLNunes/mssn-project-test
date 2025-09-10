@@ -8,3 +8,15 @@ application.windows32
 application.windows64
 application.macosx
 out
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
